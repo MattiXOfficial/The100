@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="[SpigotMC]_The100:jar">
+    <output-path>G:/Mon Drive</output-path>
+    <root id="archive" name="[SpigotMC]_The100.jar" />
+  </artifact>
+</component>

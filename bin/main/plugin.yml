@@ -1,0 +1,19 @@
+main: me.mattix.the100.Main
+name: The100
+version: 1.2
+author: MattiX
+depend: [ProtocolLib]
+commands:
+    people:
+    bc:
+    set:
+    fl:
+    flr:
+    settings:
+    sethome:
+    home:
+    nick:
+    shop:
+    news:
+    help:
+    tpc:

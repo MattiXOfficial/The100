@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/me/mattix/the100/Main.java=UTF-8
+encoding//src/main/java/me/mattix/the100/commands/ClaimCommand.java=UTF-8
+encoding//src/main/java/me/mattix/the100/commands/ClaimTPCommand.java=UTF-8
+encoding//src/main/java/me/mattix/the100/commands/HelpCommand.java=UTF-8
+encoding//src/main/java/me/mattix/the100/sql/DatabaseManager.java=UTF-8
+encoding/<project>=UTF-8
