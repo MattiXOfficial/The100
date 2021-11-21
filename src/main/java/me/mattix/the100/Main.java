@@ -58,7 +58,8 @@ public class Main extends JavaPlugin implements Listener {
 	public Map<UUID, RegionManager> regionsid;
 	
 	public Map<Integer, String> playersLines;
-	
+
+	// on enable
 	@Override
 	public void onEnable() {
 		INSTANCE = this;
